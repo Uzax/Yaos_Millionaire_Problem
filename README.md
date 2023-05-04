@@ -8,5 +8,5 @@ This problem is analogous to a more general problem where there are two numbers 
 # Protocol : 
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![alt](https://github.com/Uzax/Yaos_Millionaire_Problem/blob/main/Images/Millonire.png)
 
